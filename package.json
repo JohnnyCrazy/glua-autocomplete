@@ -1,10 +1,10 @@
 {
   "name": "glua-autocomplete",
   "main": "./lib/init",
-  "version": "0.1.0",
+  "version": "0.0.0",
   "description": "Autocomplete for the scripting language GLua used in the sandbox game Garry's Mod",
   "keywords": [],
-  "repository": "https://github.com/atom/glua-autocomplete",
+  "repository": "https://github.com/JohnnyCrazy/glua-autocomplete",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
