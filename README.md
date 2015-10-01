@@ -1,6 +1,6 @@
 # glua-autocomplete - Garry's Mod Lua Autocomplete
 
-*Last Wiki-Update: 12.09.2015*
+*Last Wiki-Update: 01.10.2015*
 
 This package will make you write Garry's Mod Addons and Gamemodes faster than before!
 
